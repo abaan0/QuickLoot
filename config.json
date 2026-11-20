@@ -1,0 +1,9 @@
+{
+  "channels": [
+    "dealztrendz",
+    "growdealzlootoffers"
+  ],
+  "preferred_city": "Mumbai",
+  "max_post_age_hours": 6,
+  "max_alerts_per_run": 12
+}
